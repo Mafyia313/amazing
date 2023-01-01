@@ -1,0 +1,2 @@
+import XD
+XD.main()
